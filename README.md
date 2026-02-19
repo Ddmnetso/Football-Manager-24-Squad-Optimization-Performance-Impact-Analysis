@@ -48,6 +48,8 @@ After Matchday 16:
 * **Goals per Game Conceded:** 1.44
 * **Goal Difference per Game:** +0.37
 
+![image alt](https://github.com/Ddmnetso/Football-Manager-24-Squad-Optimization-Performance-Impact-Analysis/blob/d70e0a1f48181210bbde8a7e846a8f34a7cbbe4b/Screenshot%202026-02-19%20164847.png)
+
 ## Results
 
 ### Unbeaten rate
