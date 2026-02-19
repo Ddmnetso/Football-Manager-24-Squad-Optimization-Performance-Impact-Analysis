@@ -26,6 +26,7 @@ Can structured, data-informed squad selection improve competitive performance wi
 * **Goal Difference per Game:** -1.19
 
 ![image alt](https://github.com/Ddmnetso/Football-Manager-24-Squad-Optimization-Performance-Impact-Analysis/blob/f2b9e8e38007d1a1475f93b5cb4641e3fac2875c/Screenshot%202026-02-19%20164950.png)
+![image alt](https://github.com/Ddmnetso/Football-Manager-24-Squad-Optimization-Performance-Impact-Analysis/blob/fafe366115ed1c1b4aed050fb29e9f6a22e11b0e/Screenshot%202026-02-19%20165002.png)
 
 ## Intervention Strategy
 After Matchday 16:
